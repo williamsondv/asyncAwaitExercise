@@ -1,0 +1,25 @@
+#button_div {
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+
+button {
+  margin-top: 3rem;
+  color: white;
+  background-color: rgb(56, 190, 96);
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+img {
+  margin: 1rem;
+}
+
+#card_div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
